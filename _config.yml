@@ -1,11 +1,11 @@
 # Site settings
-title:       101[808rainbows]
+title:       101rainbows
 email:       roygbiv.site@gmail.com
 author:      B/W
-description: "a seven-hue spectrum of ideas"
+description: "a seven-hue spectrum of life and ideas"
 baseurl:     ""
 url:         "http://roygbiv.tech"
-date_format: "%10 %-1, %2016"
+date_format: "%b %-d, %Y"
 
 # Google services
 google_verification:
