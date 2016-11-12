@@ -4,7 +4,7 @@ email:       roygbiv.site@gmail.com
 author:      B/W
 description: "a seven-hue spectrum of life and ideas"
 baseurl:     ""
-url:         "http://roygbiv.tech"
+url:         "http://roygbiv.green"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -91,7 +91,7 @@ text:
   index:
     coming_soon: 'Coming soon...'
   contact:
-    email:    'Email Address'
+    email:    'roygbiv.site@gmail.com'
     content:  'What would you like to say?'
     subject:  'New submission!'
     submit:   'Say Hello'
