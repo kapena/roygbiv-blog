@@ -11,7 +11,7 @@ published:  true
 Welcome. This post explains about how I approached building my personal portfolio.
 
 ## ROYGBIV?  
-In Hawaii it's no phenomenon that you to see a Rainbow everyday. Seeing rainbows on a day to day bases has influenced me to pay attention to the visible color spectrum. The reason I choose [roygbiv.green](https//www.roygbiv.green) for my domain name is because it translates directly to the the visible color spectrum which is *red, orange, yellow, blue, indigo and  violet* **ROYGBIV**. While viewing [roygbiv.green](https//www.roygbiv.green) you'll notice a few references to the color spectrum including Issac Newtons color wheel. If you'd like to learn more about  **ROYGBIV** and the major significance it has to Issac Newton then read this article all about [The Dimensions of Color](https://www.huevaluechroma.com/071.php). It's fascinating and worth every bit of your time.
+In Hawaii it's no phenomenon that you see a rainbow everyday. Seeing rainbows on a day to day bases has influenced me to pay attention to the visible color spectrum. The reason for choosing [roygbiv.green](https//www.roygbiv.green) for my domain name is because it translates directly to the the visible color spectrum which is *red, orange, yellow, blue, indigo and  violet* **ROYGBIV**. While viewing [roygbiv.green](https//www.roygbiv.green) you'll notice a few references to the color spectrum including Issac Newtons color wheel. If you'd like to learn more about  **ROYGBIV** and the major significance it has to Issac Newton then read this article all about [The Dimensions of Color](https://www.huevaluechroma.com/071.php). It's fascinating and worth every bit of your time.
 
 ## Timeline
 
