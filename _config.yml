@@ -1,8 +1,8 @@
 # Site settings
-title:       101rainbows
+title:       roygbivspectrum
 email:       roygbiv.site@gmail.com
 author:      B/W
-description: "a seven-hue spectrum of life and ideas"
+description: "a seven-hue spectrum of life, learning and ideas"
 baseurl:     ""
 url:         "http://roygbivspectrum.xyz"
 date_format: "%b %-d, %Y"
